@@ -1,0 +1,24 @@
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\bin\Debug\Student management System.exe
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\bin\Debug\Student management System.pdb
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\bin\Debug\Student management System.xml
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.Login.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.Resources.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student management System.vbproj.GenerateResource.Cache
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student management System.exe
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student management System.xml
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student management System.pdb
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.HomePage.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.HeadmasterHome.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.TeacherPage.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.EnrollStudent.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.EnrollList.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.StudentResults.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.TeacherMarkUploader.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student management System.vbprojResolveAssemblyReference.cache
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.Resultslist.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.CreateAccount.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.HeadmasterViewRes.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.Fees.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.arrears.resources
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\bin\Debug\Student management System.exe.config
+C:\Users\Telthem\Desktop\Millicent_Project\Student management System\Student management System\obj\x86\Debug\Student_management_System.FeesStructure.resources
